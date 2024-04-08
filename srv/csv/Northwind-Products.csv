@@ -1,0 +1,5 @@
+ProductID,ProductName,Discontinued,UnitPrice
+1,Anton,null,500
+2,Norr Soup,null,950
+3,Maggi,null,0
+4,Samosa,null,15
